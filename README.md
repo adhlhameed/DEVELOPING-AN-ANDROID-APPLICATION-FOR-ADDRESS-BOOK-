@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         android:layout_height="wrap_content" />
 
 </LinearLayout>
+
 ## OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50a1bb52-4587-4da1-bc82-422d2af328e2" />
 
