@@ -23,7 +23,7 @@ The Address Book App is designed to store and display contact details such as a 
 8.Select the suitable available device to display the output. 22. Now run the application to see the output. 
 
 ## PROGRAM:
-# Main Activity JAVA
+Main Activity JAVA
 
 package com.example.addressbook;
 
@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-# Actvity Main.XML
+ Actvity Main.XML
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
