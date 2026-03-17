@@ -4,8 +4,8 @@
 To develop an android application for address book.
 
 ## APPARATUS REQUIRED:
-ØComputer
-ØAndroid studio software
+Computer
+Android studio software
 
 
 ## THEORY:
